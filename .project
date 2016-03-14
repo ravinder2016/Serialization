@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Serialization</name>
+=======
+	<name>Assignments</name>
+>>>>>>> 364cd18ca30909e97adb9a60b849c70f2512d957
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
 		<buildCommand>
+<<<<<<< HEAD
+=======
+			<name>org.eclipse.wst.common.project.facet.core.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+>>>>>>> 364cd18ca30909e97adb9a60b849c70f2512d957
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
 			</arguments>
@@ -13,5 +25,9 @@
 	</buildSpec>
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
+<<<<<<< HEAD
+=======
+		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
+>>>>>>> 364cd18ca30909e97adb9a60b849c70f2512d957
 	</natures>
 </projectDescription>
